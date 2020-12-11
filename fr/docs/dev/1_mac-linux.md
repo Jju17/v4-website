@@ -8,7 +8,7 @@ Vous trouverez ici les instructions pour mettre en place un environnement de dé
 
 ## Le backend
 
-Le backend est une serveur Node.js.
+Le backend est un serveur Node.js.
 
 ### Installer les dépendances systèmes nécessaires
 
@@ -53,7 +53,7 @@ Le serveur devrait être accessible à http://localhost:1443.
 
 ## Le frontend
 
-A la racine du repo git, faites:
+À la racine du repo git, faites:
 
 ```
 cd front
